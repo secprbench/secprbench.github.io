@@ -1,0 +1,23 @@
+SecPRBench results and case explorer, published 2026-10-22.
+
+This repository contains research artifacts exported from the SecPRBench
+benchmark and the accompanying paper, with source hashes and provenance.
+It does not change the licenses or ownership of those artifacts.
+
+Upstream code, commit diffs, source snippets, issue descriptions, and reference
+material retain their respective project licenses and attribution. The task
+viewer preserves project identity and pinned upstream source links. Saved model
+outputs and third-party report text retain their applicable ownership and terms.
+
+The benchmark source currently records author-owned licensing and citation
+metadata as publication work. This results website does not invent a blanket
+license grant, author list, DOI, or institutional endorsement.
+
+Generated and public cryptographic test fixtures can appear in code and logs.
+They are historical test material, not operational account credentials. Public
+trajectory projections apply the redactions described in docs/TRAJECTORIES.md.
+Original raw trajectories are excluded from Git and the published website.
+
+React, Vite, Shiki, and other package dependencies retain their own licenses.
+The design is original; SWE-bench and SEC-bench served as interaction references
+and are not affiliated with or endorsing this website.
